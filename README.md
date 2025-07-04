@@ -160,11 +160,6 @@ Final Score
 We could use Hyperparamete Tuning or Feature enginnering methods to improve the accuracy further.
 
 
-### Feedback
-
-If you have any feedback, please reach out at pradnyapatil671@gmail.com
-
-
 
 ### 🚀 About Me
 #### Hi, I'm Pratyush! 👋
