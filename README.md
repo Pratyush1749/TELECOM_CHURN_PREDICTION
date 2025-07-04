@@ -4,7 +4,7 @@
 [2]: https://www.linkedin.com/in/pratyush-kumar-das-462748280/
 
 
-
+</div>
 
 
 # <div align="center">Telecom Customer Churn Prediction</div>
